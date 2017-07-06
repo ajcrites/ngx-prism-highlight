@@ -1,0 +1,4 @@
+lib
+*.metadata.json
+*.ngsummary.json
+*.ngfactory.ts
