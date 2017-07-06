@@ -4,7 +4,7 @@ library that works as an Angular component.
 
 ## Installation
 
-Install `@acrites/prism-highlight` with your favorite
+Install `prism-highlight` with your favorite
 package manager.
 
 You will also need to install `prismjs`. Make sure that you

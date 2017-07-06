@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "name": "@acrites/prism-highlight",
+  "name": "prism-highlight",
   "main": "lib",
   "scripts": {
     "prepublish": "rm -rf lib && ngc"
