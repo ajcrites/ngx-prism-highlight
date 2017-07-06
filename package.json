@@ -1,7 +1,8 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.2",
   "name": "prism-highlight",
   "main": "lib",
+  "types": "lib",
   "scripts": {
     "prepublish": "rm -rf lib && ngc"
   },
