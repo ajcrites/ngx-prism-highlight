@@ -3,7 +3,7 @@ import { Directive, ElementRef, Input, AfterViewInit } from '@angular/core';
 declare let Prism: any;
 
 @Directive({
-  selector: '[prismHighlight]'
+  selector: '[prism-highlight]'
 })
 export class PrismHighlightDirective implements AfterViewInit {
   @Input() prismHighlight;

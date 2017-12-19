@@ -17,7 +17,7 @@ itself. For example, in `main.ts`:
     import 'prismjs/themes/prism-dark.css';
 
 ## Usage
-This module exports a single directive, `prismHighlight`
+This module exports a single directive, `prism-highlight`
 that takes the language for highlighting as an input.
 
-    <pre prismHighlight="typescript">${tsCode}</pre>
+    <pre prism-highlight="typescript">${tsCode}</pre>
