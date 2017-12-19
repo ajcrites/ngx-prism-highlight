@@ -6,7 +6,7 @@ declare let Prism: any;
   selector: '[prism-highlight]'
 })
 export class PrismHighlightDirective implements AfterViewInit {
-  @Input() prismHighlight;
+  @Input('prism-highlight') prismHighlight;
 
   constructor(private el: ElementRef) { }
 
